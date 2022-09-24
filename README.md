@@ -2,12 +2,12 @@
 
 ## Anasayfa
 
-![](https://imgyukle.com/f/2022/09/24/nKlGdy.png)
+![](https://imgyukle.com/f/2022/09/24/nK7BnI.png)
 
 
 
 ## Yazılım
 
 
-![](https://imgyukle.com/f/2022/09/24/nKlvTM.png)
+![](https://imgyukle.com/f/2022/09/24/nK7pjf.png)
 
