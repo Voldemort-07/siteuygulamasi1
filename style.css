@@ -1,71 +1,70 @@
-body{
-    background-color: lightgray;
-   }
-    img {
-      width: 100%;
-    }
+header{
+  text-align: center;
+  font-family: 'Bungee Spice', cursive;
+  font-size: 50px;
 
-    .kutu {
-      width: 100%;
-    }
-    .menü {
-      text-align: center;
-      font-family: "Bungee Spice", cursive;
-      font-size: 30px;
-    }
+}
 
-    a {
-      border: 3px solid gray;
-      border-radius: 20px;
-      text-decoration: none;
-      padding: 10px;
-      margin: 10px;
-    }
+nav{
+ text-align: center;
+ 
+}
 
-    i {
-      color: orangered;
-    }
 
-    a:hover {
-      background-color: blue;
-    }
 
-    @media screen and (max-width: 800px) {
-      .menü {
-        font-size: 20px;
-      }
+nav a{
+  border: 2px solid orangered;
+  padding: 5px;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 30px;
+  color:orangered;
+  font-family: 'Michroma', sans-serif;
+  
+}
 
-      .kutu {
-        width: 95%;
-      }
-    }
+nav a:hover{
+  background-color: lightcoral;
+}
 
-    @media screen and (max-width: 580px) {
-      .menü {
-        font-size: 15px;
-      }
+img{
+  width: 100%;
+  
+}
 
-      .kutu {
-        width: 90%;
-      }
-    }
-    .tanıtım {
-      font-family: 'Permanent Marker', cursive;
-      text-align: center;
-    }
-    .iletisim{
-      text-align: center;
-      margin: 20px;
-    }
+article{
 
-    .yazilim{
-      text-align: center;
-      font-family: 'Permanent Marker', cursive;
-      font-size: 30px;
+  font-family:  'Alfa Slab One', cursive;
+  text-align: center;
 
-      
-    }
+}
 
-    ul{
-      list-style: none;
-    }
+footer{
+text-align: center;
+
+
+}
+
+footer a{
+  color: orangered;
+}
+
+.iletisim{
+
+  font-size: 40px;
+}
+
+li{
+  list-style: none;
+}
+
+.yazilim{
+  text-align: center;
+  font-family: 'Michroma', sans-serif;
+  font-size: 50px;
+  color: orangered;
+
+}
+
+
+
