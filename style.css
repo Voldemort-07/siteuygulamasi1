@@ -8,6 +8,8 @@ header{
 nav{
  text-align: center;
  
+ 
+ 
 }
 
 
@@ -27,6 +29,11 @@ nav a:hover{
   background-color: lightcoral;
 }
 
+.sag{
+  position: relative;
+  left: 20px;
+}
+
 img{
   width: 100%;
   
@@ -41,17 +48,35 @@ article{
 
 footer{
 text-align: center;
+border: 1px solid black;
+border-radius: 30px;
 
 
 }
 
 footer a{
   color: orangered;
+  
 }
 
 .iletisim{
 
   font-size: 40px;
+}
+
+.a{
+  position: relative;
+  right: 5px;
+}
+
+.b{
+  position: relative;
+  left: 5px;
+}
+
+.c{
+  position: relative;
+  left: 10px;
 }
 
 li{
